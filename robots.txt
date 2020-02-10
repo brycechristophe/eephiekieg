@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iequosheiz.nullsheng.com/sitemap.xml
